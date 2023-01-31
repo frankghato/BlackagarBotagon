@@ -1,4 +1,4 @@
-# BlackagarBotagon
+# Blackagar Botagon
 This project is a Discord bot capable of playing the audio of YouTube videos. He's named after the Marvel character whose ability is based on his voice, because I think that's funny.
 
 # Motivation
